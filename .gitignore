@@ -1,0 +1,12 @@
+*.tsv
+*.csv
+*.pyc
+*.so
+darknet
+RWF-2000/
+weights/
+data/
+yolo3/
+yolov3.cfg
+tmp.py
+run.sh
